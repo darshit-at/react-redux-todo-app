@@ -1,0 +1,18 @@
+.form-control {
+    margin: 40px 0px;
+    background: rgba(27, 40, 59, 0.677);
+    width: 400px;
+    min-height: 250px;
+    border-radius: 20px;
+    padding: 30px 10px;
+}
+.form-control div {
+    margin: 7px 0px;
+}
+.form-control div input {
+    padding: 7px 20px;
+    width: 269px;
+}
+.form-control h2 {
+    color:white
+}
